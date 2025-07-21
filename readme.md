@@ -72,7 +72,8 @@ A Unity-based simulation for a stealth robot that navigates an indoor environmen
 
 Here’s a short video demonstrating the robot navigating while avoiding exposed areas:
 
-[![Watch Demo](https://drive.google.com/file/d/1Bvg5MCHppiVkguxGwKEf3OZzHPtCohY3/view?usp=sharing)
+[![Watch Demo scene1](Screenshots/scene1/demo_video.mp4)
+[![Watch Demo scene1](Screenshots/scene2/demo_video.mp4)
 
 > The robot uses a heatmap to evaluate exposure levels and selects the safest path to reach the goal.
 
@@ -80,21 +81,21 @@ Here’s a short video demonstrating the robot navigating while avoiding exposed
 
 ### 🖼️ Initial Scene Setup
 
-![Scene Setup](<img width="1252" height="683" alt="image" src="https://github.com/user-attachments/assets/4e8257a9-2863-44f7-af60-76769fb5973a" />)  
+![Scene Setup](Screenshots/scene1/initial_scene.jpg)  
 *The robot is placed in the environment, surrounded by obstacles like chairs and desks.*
 
 ---
 
 ### 🖼️ Heatmap in Action
 
-![Heatmap](<img width="1239" height="716" alt="image" src="https://github.com/user-attachments/assets/5fd99d42-cbde-4f9d-a231-9abf2b044027" />)  
+![Heatmap](Screenshots/scene1/mid_navigation.jpg)  
 *Exposure levels are computed in real time. Red = highly visible, green = hidden. Each tile's color indicates how many camera-visible points can see it.*
 
 ---
 
 ### 🖼️ Final Path to Target
 
-![Final Path](<img width="1054" height="648" alt="image" src="https://github.com/user-attachments/assets/d4205c47-7a5a-4986-b66a-702c3b000b2b" />)  
+![Final Path](Screenshots/scene1/result_path.jpg)  
 *The robot follows the least exposed path (in blue) to the target tile. The heatmap updates dynamically as it progresses.*
 
 ---
