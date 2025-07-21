@@ -3,13 +3,11 @@
 [Bb]uild/
 [Bb]uilds/
 Logs/
-UserSettings/
 .obj/
 *.csproj
 *.sln
 *.user
 *.unityproj
 *.pidb
-*.svd
 *.pdb
 .vs/
