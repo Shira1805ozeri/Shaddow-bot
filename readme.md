@@ -70,10 +70,7 @@ A Unity-based simulation for a stealth robot that navigates an indoor environmen
 
 ## 🎥 Demo & Screenshots
 
-Here’s a short video demonstrating the robot navigating while avoiding exposed areas:
-
-[![Watch Demo scene1](Screenshots/scene1/demo_video.mp4)
-[![Watch Demo scene1](Screenshots/scene2/demo_video.mp4)
+🎥 [Watch demo video](https://github.com/Shira1805ozeri/Shaddow-bot/blob/main/Screenshots/scene1/demo_video.mp4)
 
 > The robot uses a heatmap to evaluate exposure levels and selects the safest path to reach the goal.
 
@@ -81,21 +78,21 @@ Here’s a short video demonstrating the robot navigating while avoiding exposed
 
 ### 🖼️ Initial Scene Setup
 
-![Scene Setup]([Screenshots/scene1/initial_scene.jpg](https://github.com/Shira1805ozeri/Shaddow-bot/blob/main/Screenshots/scene1/initial_scene.png?raw=true))  
+![Scene Setup](https://github.com/Shira1805ozeri/Shaddow-bot/blob/main/Screenshots/scene1/initial_scene.png?raw=true)  
 *The robot is placed in the environment, surrounded by obstacles like chairs and desks.*
 
 ---
 
 ### 🖼️ Heatmap in Action
 
-![Heatmap](Screenshots/scene1/mid_navigation.jpg)  
+![Heatmap](https://github.com/Shira1805ozeri/Shaddow-bot/blob/main/Screenshots/scene1/mid_navigation.jpg?raw=true)  
 *Exposure levels are computed in real time. Red = highly visible, green = hidden. Each tile's color indicates how many camera-visible points can see it.*
 
 ---
 
 ### 🖼️ Final Path to Target
 
-![Final Path](Screenshots/scene1/result_path.jpg)  
+![Final Path](https://github.com/Shira1805ozeri/Shaddow-bot/blob/main/Screenshots/scene1/result_path.jpg?raw=true)  
 *The robot follows the least exposed path (in blue) to the target tile. The heatmap updates dynamically as it progresses.*
 
 ---
@@ -133,3 +130,4 @@ What makes this system dynamic is that the **heatmap is updated every frame**, b
 Developed by **Shira Ozeri** as part of an advanced simulation project  
 Course: *Semester project*  
 University of Haifa
+
