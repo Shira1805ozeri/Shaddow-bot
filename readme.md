@@ -81,7 +81,7 @@ Here’s a short video demonstrating the robot navigating while avoiding exposed
 
 ### 🖼️ Initial Scene Setup
 
-![Scene Setup](Screenshots/scene1/initial_scene.jpg)  
+![Scene Setup]([Screenshots/scene1/initial_scene.jpg](https://github.com/Shira1805ozeri/Shaddow-bot/blob/main/Screenshots/scene1/initial_scene.png?raw=true))  
 *The robot is placed in the environment, surrounded by obstacles like chairs and desks.*
 
 ---
