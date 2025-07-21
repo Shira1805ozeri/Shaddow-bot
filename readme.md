@@ -97,6 +97,14 @@ A Unity-based simulation for a stealth robot that navigates an indoor environmen
 
 ---
 
+### 🖼️ Another Example
+
+![Scene Setup](https://github.com/Shira1805ozeri/Shaddow-bot/blob/main/Screenshots/scene2/initial_scene.png?raw=true)  
+![Heatmap](https://github.com/Shira1805ozeri/Shaddow-bot/blob/main/Screenshots/scene2/mid_navigation.png?raw=true)  
+![Final Path](https://github.com/Shira1805ozeri/Shaddow-bot/blob/main/Screenshots/scene2/result_path.png?raw=true)  
+
+---
+
 ## 🧠 Theoretical Background
 
 This project simulates **vision-based navigation**, where the robot must reach a goal while minimizing **visibility-based risk**. Instead of relying on a predefined map or external controller, the robot makes decisions based on what it can currently "see" through its own simulated camera.
