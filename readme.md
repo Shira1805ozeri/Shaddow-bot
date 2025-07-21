@@ -1,4 +1,4 @@
-# 🔵 Shadow Bot – Exposure-Aware Indoor Navigation in Unity
+# Shadow Bot – Exposure-Aware Indoor Navigation in Unity
 
 A Unity-based simulation for a stealth robot that navigates an indoor environment while minimizing exposure to visible observation points. The robot uses dynamic heatmap analysis based on real-time visibility and obstacles such as chairs and desks.
 
