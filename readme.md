@@ -70,7 +70,7 @@ A Unity-based simulation for a stealth robot that navigates an indoor environmen
 
 ## 🎥 Demo & Screenshots
 
-🎥 [Watch demo video](https://github.com/Shira1805ozeri/Shaddow-bot/blob/main/Screenshots/scene1/demo_video.mp4)
+[![Watch Demo](https://github.com/Shira1805ozeri/Shaddow-bot/blob/main/Screenshots/scene1/demo_thumbnail.png?raw=true)](https://drive.google.com/file/d/1Bvg5MCHppiVkguxGwKEf3OZzHPtCohY3/view?usp=sharing)
 
 > The robot uses a heatmap to evaluate exposure levels and selects the safest path to reach the goal.
 
