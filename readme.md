@@ -85,14 +85,14 @@ A Unity-based simulation for a stealth robot that navigates an indoor environmen
 
 ### 🖼️ Heatmap in Action
 
-![Heatmap](https://github.com/Shira1805ozeri/Shaddow-bot/blob/main/Screenshots/scene1/mid_navigation.jpg?raw=true)  
+![Heatmap](https://github.com/Shira1805ozeri/Shaddow-bot/blob/main/Screenshots/scene1/mid_navigation.png?raw=true)  
 *Exposure levels are computed in real time. Red = highly visible, green = hidden. Each tile's color indicates how many camera-visible points can see it.*
 
 ---
 
 ### 🖼️ Final Path to Target
 
-![Final Path](https://github.com/Shira1805ozeri/Shaddow-bot/blob/main/Screenshots/scene1/result_path.jpg?raw=true)  
+![Final Path](https://github.com/Shira1805ozeri/Shaddow-bot/blob/main/Screenshots/scene1/result_path.png?raw=true)  
 *The robot follows the least exposed path (in blue) to the target tile. The heatmap updates dynamically as it progresses.*
 
 ---
