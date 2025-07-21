@@ -76,16 +76,26 @@ Here’s a short video demonstrating the robot navigating while avoiding exposed
 
 > The robot uses a heatmap to evaluate exposure levels and selects the safest path to reach the goal.
 
-### 🖼️ Screenshots
+---
 
-#Initial Scene Setup 
-![Scene](<img width="1229" height="699" alt="image" src="https://github.com/user-attachments/assets/82085d16-ea1b-46a3-92d9-4806120f0b0a" />)
-#Heatmap in Action
-![Heatmap](<img width="1148" height="680" alt="image" src="https://github.com/user-attachments/assets/538c07f0-9dca-4b28-8a55-22bdf5bc327a" />)
-#Final Path to Target
-![Path](<img width="1889" height="923" alt="image" src="https://github.com/user-attachments/assets/4fe0bbdb-045b-481a-9c40-11b0217c69f7" />)
+### 🖼️ Initial Scene Setup
 
-Each color in the heatmap represents exposure level: green = hidden, red = highly exposed, blue = path seen by the robot.
+![Scene Setup](<img width="1252" height="683" alt="image" src="https://github.com/user-attachments/assets/4e8257a9-2863-44f7-af60-76769fb5973a" />)  
+*The robot is placed in the environment, surrounded by obstacles like chairs and desks.*
+
+---
+
+### 🖼️ Heatmap in Action
+
+![Heatmap](<img width="1239" height="716" alt="image" src="https://github.com/user-attachments/assets/5fd99d42-cbde-4f9d-a231-9abf2b044027" />)  
+*Exposure levels are computed in real time. Red = highly visible, green = hidden. Each tile's color indicates how many camera-visible points can see it.*
+
+---
+
+### 🖼️ Final Path to Target
+
+![Final Path](<img width="1054" height="648" alt="image" src="https://github.com/user-attachments/assets/d4205c47-7a5a-4986-b66a-702c3b000b2b" />)  
+*The robot follows the least exposed path (in blue) to the target tile. The heatmap updates dynamically as it progresses.*
 
 ---
 
