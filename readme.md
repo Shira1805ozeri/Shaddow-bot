@@ -102,6 +102,7 @@ A Unity-based simulation for a stealth robot that navigates an indoor environmen
 ![Scene Setup](https://github.com/Shira1805ozeri/Shaddow-bot/blob/main/Screenshots/scene2/initial_scene.png?raw=true)  
 ![Heatmap](https://github.com/Shira1805ozeri/Shaddow-bot/blob/main/Screenshots/scene2/mid_navigation.png?raw=true)  
 ![Final Path](https://github.com/Shira1805ozeri/Shaddow-bot/blob/main/Screenshots/scene2/result_path.png?raw=true)  
+[![Watch Demo](https://github.com/Shira1805ozeri/Shaddow-bot/blob/main/Screenshots/scene2/demo_image2.png?raw=true)](https://drive.google.com/file/d/1KuCsKPBGwBc6XBmx60wMCv5ESTMCMvCa/view?usp=sharing)
 
 ---
 
