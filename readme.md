@@ -68,6 +68,27 @@ A Unity-based simulation for a stealth robot that navigates an indoor environmen
 
 ---
 
+## 🎥 Demo & Screenshots
+
+Here’s a short video demonstrating the robot navigating while avoiding exposed areas:
+
+[![Watch Demo]()
+
+> The robot uses a heatmap to evaluate exposure levels and selects the safest path to reach the goal.
+
+### 🖼️ Screenshots
+
+| Initial Scene Setup | Heatmap in Action | Final Path to Target |
+|---------------------|-------------------|-----------------------|
+| ![Scene](<img width="1229" height="699" alt="image" src="https://github.com/user-attachments/assets/82085d16-ea1b-46a3-92d9-4806120f0b0a" />
+) | ![Heatmap](<img width="1148" height="680" alt="image" src="https://github.com/user-attachments/assets/538c07f0-9dca-4b28-8a55-22bdf5bc327a" />
+) | ![Path](<img width="1889" height="923" alt="image" src="https://github.com/user-attachments/assets/4fe0bbdb-045b-481a-9c40-11b0217c69f7" />
+g) |
+
+Each color in the heatmap represents exposure level: green = hidden, red = highly exposed, blue = path seen by the robot.
+
+---
+
 ## 🧠 Theoretical Background
 
 This project simulates **vision-based navigation**, where the robot must reach a goal while minimizing **visibility-based risk**. Instead of relying on a predefined map or external controller, the robot makes decisions based on what it can currently "see" through its own simulated camera.
