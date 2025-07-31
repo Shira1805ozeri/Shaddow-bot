@@ -1,6 +1,9 @@
 # Shadow Bot – Exposure-Aware Indoor Navigation in Unity
 
+This project was developed as part of a semester-long course project under the supervision of Professor Roi Poranne, during undergraduate studies in Computer Science at the University of Haifa.
+
 A Unity-based simulation for a stealth robot that navigates an indoor environment while minimizing exposure to visible observation points. The robot uses dynamic heatmap analysis based on real-time visibility and obstacles such as chairs and desks.
+
 
 ---
 
@@ -137,6 +140,7 @@ What makes this system dynamic is that the **heatmap is updated every frame**, b
 ## 🧑‍💻 Author
 
 Developed by **Shira Ozeri** as part of an advanced simulation project  
-Course: *Semester project*  
-University of Haifa
+Course: *Semester project*, under the supervision of Professor Roi Poranne
+University of Haifa,as part of a B.Sc. in Computer Science.
+
 
